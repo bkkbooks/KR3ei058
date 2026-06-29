@@ -1,0 +1,1170 @@
+canonical_identifier: bkk:krp/KR3ei058/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ei058/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 胎產心法
+  identifiers:
+    krp: KR3ei058
+  tags:
+    kr-categories: KR3ei
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ei058.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ei058_000-jc.yaml, hash: 'sha256:af20cd3762e149b46525a9a61df902d71df956f363801f0896ef364f95d5b739'}
+  - {seq: 1, filename: KR3ei058_001-jc.yaml, hash: 'sha256:c2fd7e018ffc68d27959307e9b312aadc7f52481898a3e1d4c02ccb9f855da3e'}
+  - {seq: 2, filename: KR3ei058_002-jc.yaml, hash: 'sha256:f2ee98a93aeafa5f0e217d06116cba970ae76aff5f5ad46a40eef0b67f71d46e'}
+  - {seq: 3, filename: KR3ei058_003-jc.yaml, hash: 'sha256:f9864f571e11f05c28817dd4e7d3bf0b03eb0c4d8781fbf6aff89fe929f5ab4c'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ei058_000-jc.markers.yaml, hash: 'sha256:a5c9b6745ab90dd59a1b13cb8887aa392123f094e0c6af9acc3d708e9a9541e9'}
+  - {seq: 1, role: markers, filename: assets/KR3ei058_001-jc.markers.yaml, hash: 'sha256:c538a317eead9fbf2aca9837ba26f08fbcea7fc4050b3869d263cb4e59aab42f'}
+  - {seq: 2, role: markers, filename: assets/KR3ei058_002-jc.markers.yaml, hash: 'sha256:ae33ab0edda6b7e36f78112e0b0338ef371cae99c922423a11e6adf107363f6b'}
+  - {seq: 3, role: markers, filename: assets/KR3ei058_003-jc.markers.yaml, hash: 'sha256:00caf306c0eb6ac52181198955e8eea159260ea6038405b39a92c74c25365ebe'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ei058_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 588
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei058_jc_000-d3.h1s1
+    span:
+    - front
+    - 588
+    - 880
+  label: 自序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ei058_jc_001-d4.h1s1
+    span:
+    - body
+    - 0
+    - 39131
+  label: 卷之上
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ei058_jc_001-d4d2
+    span:
+    - body
+    - 3
+    - 303
+  label: 脈法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei058_jc_001-d4d3
+    span:
+    - body
+    - 303
+    - 740
+  label: 脈訣歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei058_jc_001-d4d4
+    span:
+    - body
+    - 740
+    - 2479
+  label: 金匱解方附本條
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei058_jc_001-d4d5
+    span:
+    - body
+    - 2479
+    - 2578
+  label: 逐月養胎辨並慎擇醫藥論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei058_jc_001-d4d6
+    span:
+    - body
+    - 2578
+    - 2858
+  label: 受胎試驗法附方
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei058_jc_001-d4d7
+    span:
+    - body
+    - 2858
+    - 3251
+  label: 試男女胎法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei058_jc_001-d4d8
+    span:
+    - body
+    - 3251
+    - 3361
+  label: 三禁
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei058_jc_001-d4d9
+    span:
+    - body
+    - 3361
+    - 4103
+  label: 教養宜忌論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei058_jc_001-d4d10
+    span:
+    - body
+    - 4103
+    - 4437
+  label: 飲食七情禁忌論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei058_jc_001-d4d11
+    span:
+    - body
+    - 4437
+    - 4597
+  label: 妊娠藥忌歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei058_jc_001-d4d12
+    span:
+    - body
+    - 4597
+    - 7632
+  label: 種子補益受胎壽子論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei058_jc_001-d4d13
+    span:
+    - body
+    - 7632
+    - 10467
+  label: 胎動安胎論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei058_jc_001-d4d14
+    span:
+    - body
+    - 10467
+    - 12514
+  label: 惡阻論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei058_jc_001-d4d15
+    span:
+    - body
+    - 12514
+    - 15093
+  label: 胞漏並小產論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei058_jc_001-d4d16
+    span:
+    - body
+    - 15093
+    - 18885
+  label: 諸痛論附孕癰
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei058_jc_001-d4d17
+    span:
+    - body
+    - 18885
+    - 19953
+  label: 胎逆上逼脹滿子懸論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei058_jc_001-d4d18
+    span:
+    - body
+    - 19953
+    - 20763
+  label: 諸血證論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei058_jc_001-d4d19
+    span:
+    - body
+    - 20763
+    - 22143
+  label: 子腫子氣子滿論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei058_jc_001-d4d20
+    span:
+    - body
+    - 22143
+    - 23231
+  label: 子煩並五心煩熱及煩躁口乾論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei058_jc_001-d4d21
+    span:
+    - body
+    - 23231
+    - 23666
+  label: 子淋論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei058_jc_001-d4d22
+    span:
+    - body
+    - 23666
+    - 24078
+  label: 轉胞淋閉論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei058_jc_001-d4d23
+    span:
+    - body
+    - 24078
+    - 24344
+  label: 遺尿論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei058_jc_001-d4d24
+    span:
+    - body
+    - 24344
+    - 24724
+  label: 子嗽論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei058_jc_001-d4d25
+    span:
+    - body
+    - 24724
+    - 25108
+  label: 喘急論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei058_jc_001-d4d26
+    span:
+    - body
+    - 25108
+    - 26098
+  label: 泄瀉論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei058_jc_001-d4d27
+    span:
+    - body
+    - 26098
+    - 26685
+  label: 霍亂論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei058_jc_001-d4d28
+    span:
+    - body
+    - 26685
+    - 27264
+  label: 中惡中暑中濕中風論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei058_jc_001-d4d29
+    span:
+    - body
+    - 27264
+    - 28128
+  label: 子癇論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei058_jc_001-d4d30
+    span:
+    - body
+    - 28128
+    - 30651
+  label: 痢論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei058_jc_001-d4d31
+    span:
+    - body
+    - 30651
+    - 32470
+  label: 瘧論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei058_jc_001-d4d32
+    span:
+    - body
+    - 32470
+    - 34214
+  label: 傷寒溫熱時疫論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei058_jc_001-d4d33
+    span:
+    - body
+    - 34214
+    - 34607
+  label: 譫語論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei058_jc_001-d4d34
+    span:
+    - body
+    - 34607
+    - 34815
+  label: 傷風論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei058_jc_001-d4d35
+    span:
+    - body
+    - 34815
+    - 35239
+  label: 傷食論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei058_jc_001-d4d36
+    span:
+    - body
+    - 35239
+    - 35511
+  label: 臟躁悲傷論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei058_jc_001-d4d37
+    span:
+    - body
+    - 35511
+    - 35579
+  label: 大便燥論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei058_jc_001-d4d38
+    span:
+    - body
+    - 35579
+    - 35928
+  label: 子喑論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei058_jc_001-d4d39
+    span:
+    - body
+    - 35928
+    - 36027
+  label: 腹內兒哭鐘鳴論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei058_jc_001-d4d40
+    span:
+    - body
+    - 36027
+    - 36836
+  label: 胎不長養過期不產並枯胎論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei058_jc_001-d4d41
+    span:
+    - body
+    - 36836
+    - 37708
+  label: 鬼胎論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei058_jc_001-d4d42
+    span:
+    - body
+    - 37708
+    - 37854
+  label: 腸覃似孕並蓄血似孕論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei058_jc_001-d4d43
+    span:
+    - body
+    - 37854
+    - 38595
+  label: 孕婦出痘論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei058_jc_001-d4d44
+    span:
+    - body
+    - 38595
+    - 39131
+  label: 妊娠麻疹論
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei058_jc_002-d5.h1s1
+    span:
+    - body
+    - 0
+    - 15860
+  label: 卷之中
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ei058_jc_002-d5d2
+    span:
+    - body
+    - 3
+    - 251
+  label: 脈訣歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei058_jc_002-d5d3
+    span:
+    - body
+    - 251
+    - 2267
+  label: 保產論
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei058_jc_002-d5d4
+    span:
+    - body
+    - 2267
+    - 2365
+  label: 胎殺方位孕婦宜避
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei058_jc_002-d5d5
+    span:
+    - body
+    - 2365
+    - 2409
+  label: 房中游神方位忌安床換帳
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei058_jc_002-d5d6
+    span:
+    - body
+    - 2409
+    - 2438
+  label: 生子宜向方
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei058_jc_002-d5d7
+    span:
+    - body
+    - 2438
+    - 2585
+  label: 安產藏衣宜向方
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei058_jc_002-d5d8
+    span:
+    - body
+    - 2585
+    - 2767
+  label: 體玄子借地法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei058_jc_002-d5d9
+    span:
+    - body
+    - 2767
+    - 6368
+  label: 臨產須知十四則
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei058_jc_002-d5d10
+    span:
+    - body
+    - 6368
+    - 6887
+  label: 難產有五因
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei058_jc_002-d5d11
+    span:
+    - body
+    - 6887
+    - 10808
+  label: 催生論
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei058_jc_002-d5d12
+    span:
+    - body
+    - 10808
+    - 13417
+  label: 子死腹中論
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei058_jc_002-d5d13
+    span:
+    - body
+    - 13417
+    - 15408
+  label: 胞衣不下論
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei058_jc_002-d5d14
+    span:
+    - body
+    - 15408
+    - 15860
+  label: 交骨不開論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei058_jc_003-d6.h1s1
+    span:
+    - body
+    - 0
+    - 41737
+  label: 卷之下
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ei058_jc_003-d6d2
+    span:
+    - body
+    - 3
+    - 330
+  label: 脈訣論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei058_jc_003-d6d3
+    span:
+    - body
+    - 330
+    - 1223
+  label: 產後大補須分虛不虛全實三證論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei058_jc_003-d6d4
+    span:
+    - body
+    - 1223
+    - 1564
+  label: 四物湯不宜產後論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei058_jc_003-d6d5
+    span:
+    - body
+    - 1564
+    - 2217
+  label: 生化湯論附方
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei058_jc_003-d6d6
+    span:
+    - body
+    - 2217
+    - 2546
+  label: 調攝論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei058_jc_003-d6d7
+    span:
+    - body
+    - 2546
+    - 3025
+  label: 產後禁忌論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei058_jc_003-d6d8
+    span:
+    - body
+    - 3025
+    - 3494
+  label: 產後藥誤須知
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei058_jc_003-d6d9
+    span:
+    - body
+    - 3494
+    - 4077
+  label: 三沖論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei058_jc_003-d6d10
+    span:
+    - body
+    - 4077
+    - 4379
+  label: 產後不宜汗下利小便論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei058_jc_003-d6d11
+    span:
+    - body
+    - 4379
+    - 5053
+  label: 新產三審論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei058_jc_003-d6d12
+    span:
+    - body
+    - 5053
+    - 5248
+  label: 血塊痛論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei058_jc_003-d6d13
+    span:
+    - body
+    - 5248
+    - 7206
+  label: 暈厥論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei058_jc_003-d6d14
+    span:
+    - body
+    - 7206
+    - 10554
+  label: 血脫氣脫神脫三證論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei058_jc_003-d6d15
+    span:
+    - body
+    - 10554
+    - 12087
+  label: 惡露不止論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei058_jc_003-d6d16
+    span:
+    - body
+    - 12087
+    - 12501
+  label: 氣喘論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei058_jc_003-d6d17
+    span:
+    - body
+    - 12501
+    - 12894
+  label: 惡露不下論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei058_jc_003-d6d18
+    span:
+    - body
+    - 12894
+    - 13930
+  label: 脫汗亡陽及諸汗論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei058_jc_003-d6d19
+    span:
+    - body
+    - 13930
+    - 14533
+  label: 傷食論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei058_jc_003-d6d20
+    span:
+    - body
+    - 14533
+    - 14854
+  label: 忿怒氣逆論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei058_jc_003-d6d21
+    span:
+    - body
+    - 14854
+    - 15218
+  label: 頭痛論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei058_jc_003-d6d22
+    span:
+    - body
+    - 15218
+    - 15655
+  label: 心痛即胃脘痛論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei058_jc_003-d6d23
+    span:
+    - body
+    - 15655
+    - 17280
+  label: 腹痛論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei058_jc_003-d6d24
+    span:
+    - body
+    - 17280
+    - 17884
+  label: 小腹痛並兒枕痛論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei058_jc_003-d6d25
+    span:
+    - body
+    - 17884
+    - 18489
+  label: 腰痛論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei058_jc_003-d6d26
+    span:
+    - body
+    - 18489
+    - 19232
+  label: 脅肋痛論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei058_jc_003-d6d27
+    span:
+    - body
+    - 19232
+    - 19723
+  label: 手足身痛論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei058_jc_003-d6d28
+    span:
+    - body
+    - 19723
+    - 20670
+  label: 發熱論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei058_jc_003-d6d29
+    span:
+    - body
+    - 20670
+    - 21569
+  label: 大便燥秘論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei058_jc_003-d6d30
+    span:
+    - body
+    - 21569
+    - 22448
+  label: 類瘧及寒熱往來論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei058_jc_003-d6d31
+    span:
+    - body
+    - 22448
+    - 24189
+  label: 類中風痙痓及語澀口噤不語筋攣瘛瘲等證論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei058_jc_003-d6d32
+    span:
+    - body
+    - 24189
+    - 24832
+  label: 怔忡驚悸並虛煩煩躁論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei058_jc_003-d6d33
+    span:
+    - body
+    - 24832
+    - 25288
+  label: 麻瞀論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei058_jc_003-d6d34
+    span:
+    - body
+    - 25288
+    - 26177
+  label: 口乾渴兼小便不通或短少論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei058_jc_003-d6d35
+    span:
+    - body
+    - 26177
+    - 27716
+  label: 泄瀉及完穀不化並遺屎論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei058_jc_003-d6d36
+    span:
+    - body
+    - 27716
+    - 28819
+  label: 痢滯論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei058_jc_003-d6d37
+    span:
+    - body
+    - 28819
+    - 29238
+  label: 霍亂論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei058_jc_003-d6d38
+    span:
+    - body
+    - 29238
+    - 30556
+  label: 氣逆嘔吐不食論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei058_jc_003-d6d39
+    span:
+    - body
+    - 30556
+    - 30912
+  label: 呃逆論即吃忒又名咳逆
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei058_jc_003-d6d40
+    span:
+    - body
+    - 30912
+    - 31625
+  label: 腹脹滿悶論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei058_jc_003-d6d41
+    span:
+    - body
+    - 31625
+    - 32324
+  label: 浮腫論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei058_jc_003-d6d42
+    span:
+    - body
+    - 32324
+    - 33174
+  label: 咳嗽論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei058_jc_003-d6d43
+    span:
+    - body
+    - 33174
+    - 33946
+  label: 淋證論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei058_jc_003-d6d44
+    span:
+    - body
+    - 33946
+    - 34562
+  label: 小便數及遺尿不禁論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei058_jc_003-d6d45
+    span:
+    - body
+    - 34562
+    - 36263
+  label: 蓐勞骨蒸論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei058_jc_003-d6d46
+    span:
+    - body
+    - 36263
+    - 36662
+  label: 吐衄及口鼻黑氣起而衄並舌黑論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei058_jc_003-d6d47
+    span:
+    - body
+    - 36662
+    - 36867
+  label: 大小便血論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei058_jc_003-d6d48
+    span:
+    - body
+    - 36867
+    - 37023
+  label: 月水不通論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei058_jc_003-d6d49
+    span:
+    - body
+    - 37023
+    - 37168
+  label: 癰疽論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei058_jc_003-d6d50
+    span:
+    - body
+    - 37168
+    - 38363
+  label: 乳少無乳並乳汁自出論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei058_jc_003-d6d51
+    span:
+    - body
+    - 38363
+    - 39973
+  label: 妒乳吹乳乳癰論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei058_jc_003-d6d52
+    span:
+    - body
+    - 39973
+    - 40455
+  label: 乳岩論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei058_jc_003-d6d53
+    span:
+    - body
+    - 40455
+    - 40580
+  label: 乳懸論附方
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei058_jc_003-d6d54
+    span:
+    - body
+    - 40580
+    - 41737
+  label: 前陰諸證論
+  type: section
+  level: 2
+hash: sha256:e3326ee08ea414137ae49fb64e404241fe8db9cc6d4a1c434e0e770e903423a9
