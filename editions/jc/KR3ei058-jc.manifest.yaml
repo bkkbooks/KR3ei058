@@ -17,12 +17,12 @@ metadata:
     short: jc
 assets:
   parts:
-  - {seq: 0, filename: KR3ei058_000-jc.yaml, hash: 'sha256:af20cd3762e149b46525a9a61df902d71df956f363801f0896ef364f95d5b739'}
+  - {seq: 0, filename: KR3ei058_000-jc.yaml, hash: 'sha256:462ca0bd260feb05942ce6da7e7568982dfb12eaccc99d4b5ffe3e396bc4cd80'}
   - {seq: 1, filename: KR3ei058_001-jc.yaml, hash: 'sha256:c2fd7e018ffc68d27959307e9b312aadc7f52481898a3e1d4c02ccb9f855da3e'}
   - {seq: 2, filename: KR3ei058_002-jc.yaml, hash: 'sha256:f2ee98a93aeafa5f0e217d06116cba970ae76aff5f5ad46a40eef0b67f71d46e'}
   - {seq: 3, filename: KR3ei058_003-jc.yaml, hash: 'sha256:f9864f571e11f05c28817dd4e7d3bf0b03eb0c4d8781fbf6aff89fe929f5ab4c'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ei058_000-jc.markers.yaml, hash: 'sha256:a5c9b6745ab90dd59a1b13cb8887aa392123f094e0c6af9acc3d708e9a9541e9'}
+  - {seq: 0, role: markers, filename: assets/KR3ei058_000-jc.markers.yaml, hash: 'sha256:a223efcdf61e5f2c87dd24bcd5ec70ed9099cb7e75245d830c66efdf45531397'}
   - {seq: 1, role: markers, filename: assets/KR3ei058_001-jc.markers.yaml, hash: 'sha256:4f80ed4d0037f84410d93265836503035f6d8b291e33684e532c33c851da881d'}
   - {seq: 2, role: markers, filename: assets/KR3ei058_002-jc.markers.yaml, hash: 'sha256:60d1c35120fd9e7aabd33ad443aaf9a885018bc5d7ded6c1b948e474c32bcd03'}
   - {seq: 3, role: markers, filename: assets/KR3ei058_003-jc.markers.yaml, hash: 'sha256:c55944c699588742715739624518232a1574b9f8b72ec67666df8ec41bc67854'}
@@ -31,7 +31,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ei058_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 588
   label: 序
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ei058_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 588
     - 880
   label: 自序
@@ -1167,4 +1167,4 @@ table_of_contents:
   label: 前陰諸證論
   type: section
   level: 2
-hash: sha256:1a3449ef48a71cfd95d32e6c39c83f1c3f16a17128b2b81ea0847fe409fa93fc
+hash: sha256:e12d0e8bbd06695ec7e8e8eb831749f5481b24db283cc6a92a2a1719e53bb1cb
